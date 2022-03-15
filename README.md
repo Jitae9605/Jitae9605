@@ -1,5 +1,5 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 <!--
 **Jitae9605/Jitae9605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
