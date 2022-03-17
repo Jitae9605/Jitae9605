@@ -7,4 +7,6 @@
 
 - 📫 How to reach me: ...
 
+<a href="mailto:dlwlxo3819@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=White"/></a>
+
 
