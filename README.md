@@ -1,16 +1,21 @@
+<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jitae9605&show_icons=true&theme=radical)
+
+<br/>
 
 ## :book: Studying :book:
 
 <img src="https://img.shields.io/badge/C Languge-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C_Sharp-239120C?style=flat-square&logo=CSharp&logoColor=white"/> 
   
+  <br/>
   
   ## :hammer: Tools :wrench:
 
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/MSSQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> 
 
   
-  
+  <br/>
   
    
 ## 💌 Contact Me! 💌
