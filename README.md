@@ -1,7 +1,7 @@
 
 <div align=center>
   <a href="https://github.com/Jitae9605">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Study%20Repository&fontSize=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=30A9DE&fontColor=FFFFFF&height=300&section=header&text=Study%20Repository&fontSize=50"/>
   </a>
 
 <br/>
@@ -25,7 +25,7 @@
 
 
 <a href="https://github.com/Jitae9605">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&fontColor=FFFFFF&height=200&section=footer&fontSize=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=EFDC05&fontColor=FFFFFF&height=200&section=footer&fontSize=50"/>
   </a>
 
 
