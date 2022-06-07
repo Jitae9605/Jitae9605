@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Study%20Repository&fontSize=50"/>
   </a>
 
-
+<div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jitae9605&show_icons=true&theme=radical)
 
@@ -34,3 +34,4 @@
 
 </p>
 
+</div>
