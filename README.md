@@ -11,7 +11,7 @@
 
 ## :book: Studying :book:
 
-<img src="https://img.shields.io/badge/C Languge-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C_Sharp-239120C?style=flat-square&logo=CSharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C Languge-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C_Sharp-239120C?style=flat-square&logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/.Net%20FramWork-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> 
   
   
   ## :hammer: Tools :wrench:
