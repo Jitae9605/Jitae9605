@@ -1,9 +1,9 @@
-<p align='center'>
+
+<div align=center>
   <a href="https://github.com/Jitae9605">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Study%20Repository&fontSize=50"/>
   </a>
 
-<div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jitae9605&show_icons=true&theme=radical)
 
@@ -27,11 +27,10 @@
 
 <a href="mailto:dlwlxo3819@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> <a href="mailto:lyj95123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-  <p align='center'>
+
 <a href="https://github.com/Jitae9605">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=200&section=footer&fontSize=50"/>
   </a>
 
-</p>
 
 </div>
