@@ -1,7 +1,7 @@
 
 
   <a href="https://github.com/Jitae9605">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=30A9DE&fontColor=000000&height=250&section=header&text=Hi!%20I'm%20Jitae9605&fontSize=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=30A9DE&fontColor=000000&height=300&section=header&text=Hi!%20I'm%20Jitae9605&fontSize=50"/>
   </a>
 
 <br/>
@@ -36,6 +36,6 @@
     - SmartHome 모니터링앱
   
 <a href="https://github.com/Jitae9605">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EFDC05&fontColor=FFFFFF&height=200&section=footer&fontSize=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EFDC05&fontColor=FFFFFF&height=300&section=footer&fontSize=50"/>
   </a>
 
