@@ -31,9 +31,12 @@
 
 ## :bar_chart: ProjectList :bar_chart:
  - C
-   - 미니게임천국(미니 팀 프로젝트)
+   - 미니게임천국(미니 팀프로젝트)
  - C++
-   - ERP,MES 시스템(미니 팀 프로젝트)
+   - ERP,MES 시스템(미니 팀프로젝트)
+ - C#
+ - WinForm
+   - SqlDB 활용 영화예매 프로그램 (미니 팀프로젝트)([바로가기](https://github.com/Jitae9605/moogabox#moogabox))
  - WPF 
    - Naver 영화검색 ([클릭](https://github.com/Jitae9605/StudyWPF/tree/main/portfolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89-%EC%9D%B4%EC%A0%84%EC%9C%BC%EB%A1%9C))
    - Naver 뉴스검색 ([클릭](https://github.com/Jitae9605/StudyWPF/tree/main/portfolio#naver-%EB%89%B4%EC%8A%A4%EA%B2%80%EC%83%89-%EC%9D%B4%EC%A0%84%EC%9C%BC%EB%A1%9C))
