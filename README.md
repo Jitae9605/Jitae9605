@@ -26,7 +26,7 @@
  - C#
  - WinForm
    - SqlDB 활용 영화예매 프로그램 (미니 팀프로젝트)([바로가기](https://github.com/Jitae9605/moogabox#moogabox))
- - WPF 
-   - Naver 영화검색 ([클릭](https://github.com/Jitae9605/StudyWPF/tree/main/portfolio#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89-%EC%9D%B4%EC%A0%84%EC%9C%BC%EB%A1%9C))
-   - Naver 뉴스검색 ([클릭](https://github.com/Jitae9605/StudyWPF/tree/main/portfolio#naver-%EB%89%B4%EC%8A%A4%EA%B2%80%EC%83%89-%EC%9D%B4%EC%A0%84%EC%9C%BC%EB%A1%9C))
-   - SmartHome 모니터링앱 ([클릭](https://github.com/Jitae9605/StudyWPF/tree/main/portfolio#smarthome-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%95%B1-%EC%9D%B4%EC%A0%84%EC%9C%BC%EB%A1%9C))
+ - WPF ([클릭](https://github.com/Jitae9605/StudyWPF/tree/main/portfolio#wpf-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4))
+   - Naver 영화검색 
+   - Naver 뉴스검색 
+   - SmartHome 모니터링앱 
