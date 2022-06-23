@@ -1,4 +1,8 @@
  
+  <a href="https://github.com/Jitae9605">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=30A9DE&fontColor=000000&height=280&section=header&text=Hi!%20I'm%20Jitae9605&fontSize=50"/>
+  </a>
+ 
  <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jitae9605&show_icons=true&theme=radical)
@@ -24,9 +28,9 @@
  - C++
    - ERP,MES 시스템(미니 팀프로젝트)
  - C#
- - WinForm
-   - SqlDB 활용 영화예매 프로그램 (미니 팀프로젝트)([바로가기](https://github.com/Jitae9605/moogabox#moogabox))
- - WPF ([클릭](https://github.com/Jitae9605/StudyWPF/tree/main/portfolio#wpf-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4))
-   - Naver 영화검색 
-   - Naver 뉴스검색 
-   - SmartHome 모니터링앱 
+   - WinForm
+     - SqlDB 활용 영화예매 프로그램 (미니 팀프로젝트)([바로가기](https://github.com/Jitae9605/moogabox#moogabox))
+   - WPF ([클릭](https://github.com/Jitae9605/StudyWPF/tree/main/portfolio#wpf-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4))
+     - Naver 영화검색 
+     - Naver 뉴스검색 
+     - SmartHome 모니터링앱 
