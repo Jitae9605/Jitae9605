@@ -49,5 +49,5 @@
      - Naver 영화검색 [[바로가기](https://github.com/Jitae9605/StudyWPF/tree/main/portfolio/WpfPortfolio/WpfNaverMovieFinder#naver-%EC%98%81%ED%99%94%EA%B2%80%EC%83%89-%EC%9D%B4%EC%A0%84%EC%9C%BC%EB%A1%9C)]
      - Naver 뉴스검색 [[바로가기](https://github.com/Jitae9605/StudyWPF/tree/main/portfolio/WpfPortfolio/WPFNaverNewsSearch#naver-%EB%89%B4%EC%8A%A4%EA%B2%80%EC%83%89-%EC%9D%B4%EC%A0%84%EC%9C%BC%EB%A1%9C)]
      - SmartHome 모니터링앱 [[바로가기](https://github.com/Jitae9605/StudyWPF/tree/main/portfolio/WpfPortfolio/WpfSmartHomeMonitoringApp#smarthome-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%95%B1-%EC%9D%B4%EC%A0%84%EC%9C%BC%EB%A1%9C)]
-     - 영화예매 및 관리프로그램 (작업중)
+     - 영화예매 및 관리프로그램 (작업중)[[바로가기](https://github.com/Jitae9605/StudyWPF/tree/main/portfolio/WpfPortfolio/WpfMoogaBox#moogabox-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-ver20-made-by-wpf_%EC%9E%91%EC%84%B1%EC%A4%91)]
 
